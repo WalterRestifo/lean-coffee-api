@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
-const questions = [
+export const questions = [
   {
     name: "Alex Neu",
     id: "6389dd4fe1a14daaf8cde036",
